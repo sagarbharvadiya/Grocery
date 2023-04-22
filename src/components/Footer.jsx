@@ -4,7 +4,6 @@ const Footer = () => {
   return (
     <>
       <section className='footer'>
-        
         <div className=' container'>
           <div className='row'>
             <div className=' col-lg-3'>
