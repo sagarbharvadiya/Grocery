@@ -1,0 +1,174 @@
+{
+    "banner": [
+        {
+            "id": 1,
+            "img": "../image/Banner.png",
+            "subTitle": "Exclusive offers",
+            "title": "Specialist",
+            "title2": "in the grocery stores",
+            "dec": "Only this week... Don't miss",
+            "button": "Shop Now"
+        },
+        {
+            "id": 2,
+            "img": "",
+            "subTitle": "Exclusive offers",
+            "title": "Specialist",
+            "title2": "in the grocery stores",
+            "dec": "Only this week... Don't miss",
+            "button": "Shop Now"
+        },
+        {
+            "id": 3,
+            "img": "",
+            "subTitle": "Exclusive offers",
+            "title": "Specialist",
+            "title2": "in the grocery stores",
+            "dec": "Only this week... Don't miss",
+            "button": "Shop Now"
+        },
+        {
+            "id": 4,
+            "img": "",
+            "subTitle": "Exclusive offers",
+            "title": "Specialist",
+            "title2": "in the grocery stores",
+            "dec": "Only this week... Don't miss",
+            "button": "Shop Now"
+        }
+    ],
+    "bannerRight": [
+        {
+            "id": 1,
+            "img": "../image/lava_banner2_cleanup.png",    
+            "subTitle": "Exclusive offers",
+            "title": "Specialist",
+            "title2": "in the grocery stores",
+            "dec": "Only this week... Don't miss"
+        },
+        {
+            "id": 2,
+            "img": "../image/cocacola_banner3_cleanup.png",
+            "subTitle": "Exclusive offers",
+            "title": "Specialist",
+            "title2": "in the grocery stores",
+            "dec": "Only this week... Don't miss"
+        }
+    ],
+    "LeftSideBar": [
+        {
+            "id": 1,
+            "icon": "../image/vegetables.png ",
+            "list": "Fruits & Vegetables"
+        },
+        {
+            "id": 2,
+            "icon": "../image/meats.png ",
+            "list": "Meats & Seafood"
+        },
+        {
+            "id": 3,
+            "icon": "../image/breakfast.png",
+            "list": "Breakfast & Dairy"
+        },
+        {
+            "id": 4,
+            "icon": "../image/bevergae.png",
+            "list": "Beverages"
+        },
+        {
+            "id": 5,
+            "icon": "../image/breads.png",
+            "list": "Breads & Bakery"
+        },
+        {
+            "id": 6,
+            "icon": "../image/frozen.png",
+            "list": "Frozen Foods"
+        },
+        {
+            "id": 7,
+            "icon": "../image/biscuts.png",
+            "list": "Biscuits & Snacks"
+        },
+        {
+            "id": 8,
+            "icon": "../image/Grocery.png",
+            "list": "Grocery & Staples"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "img":"../image/image 1.png",
+            "cat": "Beverages",
+            "item": "Nescafe Coffee",
+            "newPrice": "$ 4.50",
+            "oldPrice": "$ 3.99"
+        },
+        {
+            "id": 2,
+            "img":"../image/image 26.png",
+            "cat": "Meat & Seafood",
+            "item": "Giffy Concentrated Dishwash Gel",
+            "newPrice": "$ 11.35",
+            "oldPrice": "$ 3.99"
+        },
+        {
+            "id": 3,
+            "img":"../image/image 27.png",
+            "cat": "Fruits & vegetables",
+            "item": "Everready LED Bulb- 9 Watt",
+            "newPrice": "$ 18.21",
+            "oldPrice": "$ 3.99"
+        },
+        {
+            "id": 4,
+            "img":"../image/image 20.png",
+            "cat": "Grocery & Staples",
+            "item": "Blue Diamond Almonds Lightly",
+            "newPrice": "$ 49.99",
+            "oldPrice": "$ 3.99"
+        },
+        {
+            "id": 5,
+            "img":"../image/image 21.png",
+            "cat": "Breakfast & Dairy",
+            "item": "Nestle Original Coffee",
+            "newPrice": "$ 11.35",
+            "oldPrice": "$ 3.99"
+        },
+        {
+            "id": 6,
+            "img":"../image/image 22.png",
+            "cat": "Grocery & Staples",
+            "item": "Brown Rice",
+            "newPrice": "$ 49.99",
+            "oldPrice": "$ 3.99"
+        },
+        {
+            "id": 7,
+            "img":"../image/image 28.png",
+            "cat": "Grocery & Staples",
+            "item": "Nivea Milk Delights Face Wash",
+            "newPrice": "$ 4.50",
+            "oldPrice": "$ 3.99"
+        },
+        {
+            "id": 8,
+            "img":"../image/image 24.png",
+            "cat": "Fruits & vegetables",
+            "item": "TM Rice",
+            "newPrice": "$ 49.99",
+            "oldPrice": "$ 3.99"
+        },
+        {
+            "id": 9,
+            "img":"../image/image 29.png",
+            "cat": "Grocery & Staples",
+            "item": "Garnier Men Acno Face Wash",
+            "newPrice": "$ 18.21",
+            "oldPrice": "$ 3.99"
+        }
+    ]
+}
